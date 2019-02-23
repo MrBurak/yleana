@@ -1,0 +1,17 @@
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Burak\source\repos\Yleana\WebApi\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Burak\source\repos\Yleana\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CopyComplete
